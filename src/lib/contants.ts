@@ -1,0 +1,1 @@
+type ProductModalActions = "Add" | "Edit";
